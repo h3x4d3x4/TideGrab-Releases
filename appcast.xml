@@ -49,5 +49,15 @@
 <ul><li>The dotted arrow on the start screen and in Welcome now fades out in a soft circle. Its ripples no longer stop at a square edge.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.3/TideGrab.dmg" length="102005615" type="application/octet-stream" sparkle:edSignature="pO6ZAE1/Yt3eFjmpbYuNwjLpIvdSuKpeoiqFN91qk2p0GMX/0gFEyYTq58jUV4RZozT3QjknZxBMytLoHQTeAQ=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.4</title>
+      <pubDate>Tue, 27 Oct 2026 22:47:57 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3>
+<ul><li>The dotted arrow on the start screen and in Welcome is symmetric again: it sits exactly on the dot grid at any window size.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.4/TideGrab.dmg" length="102005649" type="application/octet-stream" sparkle:edSignature="ffb2TRhEbzTlUzuS4RxyEGnRgZVRt3HVVKegX3j6YyRdX05GzNa5HTzfj3KM2LO50TUpadfC95v9dZT0koNsBA=="/>
+    </item>
   </channel>
 </rss>
