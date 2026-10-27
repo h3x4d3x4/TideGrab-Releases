@@ -25,5 +25,19 @@
 <ul><li>&quot;Use my browser&#x27;s sign-in&quot; and the aria2 option are gone; Open Page replaces the first.</li><li>Sites that block download tools (such as Rumble and Bilibili) now say so plainly.</li><li>The list view&#x27;s selected row and the shortcut hints are easier to read.</li><li>The window no longer scrolls: a long playlist&#x27;s list makes room, and only the queue scrolls.</li><li>The browser extension ships inside the app: Browser Extension… › Show Extension Folder.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.1/TideGrab.dmg" length="101830430" type="application/octet-stream" sparkle:edSignature="HOt+9KYpuKLpMKpeKmXt+5H7J3Iw0HB6QQC7mz+pwTxQR00nabAarXY1tNKr9aHFjYxvEm8iA9NQ7zX5Kwc8CA=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.2</title>
+      <pubDate>Tue, 27 Oct 2026 20:16:19 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Made for audio</h3>
+<ul><li><strong>Sound-only links</strong> (music, mixes, radio shows, podcasts) get their own choices: <strong>Original</strong>, exactly as the site sends it, or M4A, MP3, FLAC or WAV for that download. Each choice says whether it&#x27;s a straight copy or a re-encode, and FLAC or WAV made from a compressed stream says it can&#x27;t sound better than the stream.</li><li><strong>The artist&#x27;s own file:</strong> when an artist allows downloads, sign in to the site once in Open Page and TideGrab saves the file they uploaded, often lossless, instead of the compressed stream.</li><li><strong>Tags:</strong> artist, album and track number, filled in from the page and editable before you save. Cover art goes into the file.</li><li>The card shows what the sound is before you download it: format, bitrate, sample rate and channels.</li></ul>
+<h3>Trim, front and centre</h3>
+<ul><li><strong>Trim…</strong> is at the top of every saved item&#x27;s menu, on the hover bar of each tile, and on ⌘T.</li><li>Sound files get a real waveform with handles, a playhead and <strong>Listen from here</strong>.</li><li><strong>Skip silence at the ends</strong> moves the handles to where the sound starts and stops.</li><li>On the confirmation card, <strong>Trim to</strong> keeps only part of a video or recording before it downloads.</li></ul>
+<h3>Convert, with sound tools</h3>
+<ul><li>A loudness meter: integrated loudness (EBU R128), true peak and loudness range.</li><li><strong>Even out the loudness</strong>, fade in and fade out.</li><li><strong>Advanced:</strong> a loudness target (Streaming −14, Podcast −16 or Broadcast −23 LUFS, measured on the part you keep, peaks under −1 dBTP), sample rate, bit depth (16-bit dithered or 24-bit) and channels.</li><li><strong>Check the Sound…</strong> shows a spectrogram and says whether a FLAC or WAV looks like it was made from a compressed file.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.2/TideGrab.dmg" length="101999832" type="application/octet-stream" sparkle:edSignature="3RFbybt5hKF4XFNfo7lsOU0Dc/MHwaJLs1NfUihg4fK0W9xAADoyvGx+zUqGF3YvdN9vuSOheDAnNlKKDTjtBg=="/>
+    </item>
   </channel>
 </rss>
