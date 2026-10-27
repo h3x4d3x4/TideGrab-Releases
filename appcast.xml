@@ -7,7 +7,7 @@
     <language>en</language>
     <item>
       <title>TideGrab 0.9.1</title>
-      <pubDate>Tue, 27 Oct 2026 14:58:08 GMT</pubDate>
+      <pubDate>Tue, 27 Oct 2026 15:13:36 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -23,7 +23,7 @@
 <ul><li>TideGrab now updates itself. Settings › Updates checks once a day and installs signed updates when you quit.</li></ul>
 <h3>Changes</h3>
 <ul><li>&quot;Use my browser&#x27;s sign-in&quot; and the aria2 option are gone; Open Page replaces the first.</li><li>Sites that block download tools (such as Rumble and Bilibili) now say so plainly.</li><li>The list view&#x27;s selected row and the shortcut hints are easier to read.</li><li>The window no longer scrolls: a long playlist&#x27;s list makes room, and only the queue scrolls.</li><li>The browser extension ships inside the app: Browser Extension… › Show Extension Folder.</li></ul>]]></description>
-      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.1/TideGrab.dmg" length="106817416" type="application/octet-stream" sparkle:edSignature="cdl9HDReT+8ZYj+s/Y5ZICkjefwnF4MrZfzk1xKpTj7tZgEJCGyyCKPrjwgRGAaZCzFnS1vWyn+iVkEz0QiNBw=="/>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.1/TideGrab.dmg" length="101830430" type="application/octet-stream" sparkle:edSignature="HOt+9KYpuKLpMKpeKmXt+5H7J3Iw0HB6QQC7mz+pwTxQR00nabAarXY1tNKr9aHFjYxvEm8iA9NQ7zX5Kwc8CA=="/>
     </item>
   </channel>
 </rss>
