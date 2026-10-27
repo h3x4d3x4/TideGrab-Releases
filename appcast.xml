@@ -39,5 +39,15 @@
 <ul><li>A loudness meter: integrated loudness (EBU R128), true peak and loudness range.</li><li><strong>Even out the loudness</strong>, fade in and fade out.</li><li><strong>Advanced:</strong> a loudness target (Streaming −14, Podcast −16 or Broadcast −23 LUFS, measured on the part you keep, peaks under −1 dBTP), sample rate, bit depth (16-bit dithered or 24-bit) and channels.</li><li><strong>Check the Sound…</strong> shows a spectrogram and says whether a FLAC or WAV looks like it was made from a compressed file.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.2/TideGrab.dmg" length="101999832" type="application/octet-stream" sparkle:edSignature="3RFbybt5hKF4XFNfo7lsOU0Dc/MHwaJLs1NfUihg4fK0W9xAADoyvGx+zUqGF3YvdN9vuSOheDAnNlKKDTjtBg=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.3</title>
+      <pubDate>Tue, 27 Oct 2026 20:53:10 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3>
+<ul><li>The dotted arrow on the start screen and in Welcome now fades out in a soft circle. Its ripples no longer stop at a square edge.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.3/TideGrab.dmg" length="102005615" type="application/octet-stream" sparkle:edSignature="pO6ZAE1/Yt3eFjmpbYuNwjLpIvdSuKpeoiqFN91qk2p0GMX/0gFEyYTq58jUV4RZozT3QjknZxBMytLoHQTeAQ=="/>
+    </item>
   </channel>
 </rss>
