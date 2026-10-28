@@ -105,5 +105,17 @@
 <ul><li>TideGrab now runs natively on <strong>Intel Macs</strong> as well as Apple silicon (macOS 15 or later). One download works on both.</li><li>Its ffmpeg and deno helpers are universal too, so conversions, previews and site support work the same on either Mac.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.8/TideGrab.dmg" length="174376194" type="application/octet-stream" sparkle:edSignature="QROU02yp2ps5bOQQaYKoOim6dZPWVHfataz38/E8TRqWAiau1aSqlGdTK+lSwt+T1Z3QUXaMLPOck78cmadkCg=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.9</title>
+      <pubDate>Wed, 28 Oct 2026 22:36:41 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.9.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li><strong>Camera clips in Motion JPEG</strong> (older digital cameras, some screen recorders) are recognised as video again in Convert, Save as MP4 and Extract Audio. Cover art is told apart by how the file marks it, not by its picture format.</li><li><strong>Media-server rescan</strong> (Plex, Jellyfin, Emby) no longer follows redirects, so the token never travels to any address other than the one in Settings. A server address with a user name or password in it is refused.</li><li>A folder with a thousand same-named results no longer risks writing over an existing file.</li><li>Quitting during a conversion&#x27;s loudness measurement, or while Save Audio As is reading the next file, now warns like any other copy being made, and leaves no empty file behind.</li><li>The speed limit field in Settings no longer wraps its placeholder.</li></ul>
+<h3>Under the hood</h3>
+<ul><li>Sparkle, the updater, moved to 2.9.6, which carries the project&#x27;s latest security fixes.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.9/TideGrab.dmg" length="174392525" type="application/octet-stream" sparkle:edSignature="OM61yIRgAjQGTgqbtcuw2CASQizGYis+liqRWk6idBMakK0jx64j397kUzQ0VoqmVuPAzHtntKOaapkYv0w4Bg=="/>
+    </item>
   </channel>
 </rss>
