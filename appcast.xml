@@ -95,5 +95,15 @@
 <ul><li><strong>Mixcloud</strong> and similar sites: downloads no longer fail at the end when the site&#x27;s best stream can&#x27;t hold cover art.</li><li><strong>AV1 videos</strong> (YouTube in 4K, on Macs before M3): Trim and Convert now show frames instead of loading forever. TideGrab&#x27;s ffmpeg now includes dav1d.</li><li>Drop a link on the <strong>menu bar icon</strong> to download it.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.7/TideGrab.dmg" length="102830154" type="application/octet-stream" sparkle:edSignature="/TRx6odCxLKXMD4JDFfZ4dBcO11ScCr6acKvpiPY869M83/9TwDJ3jq1TsQNbzcd5eosEdmr3M2sDRc0BE0MCg=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.8</title>
+      <pubDate>Wed, 28 Oct 2026 10:19:29 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.9.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Intel Macs</h3>
+<ul><li>TideGrab now runs natively on <strong>Intel Macs</strong> as well as Apple silicon (macOS 15 or later). One download works on both.</li><li>Its ffmpeg and deno helpers are universal too, so conversions, previews and site support work the same on either Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.8/TideGrab.dmg" length="174376194" type="application/octet-stream" sparkle:edSignature="QROU02yp2ps5bOQQaYKoOim6dZPWVHfataz38/E8TRqWAiau1aSqlGdTK+lSwt+T1Z3QUXaMLPOck78cmadkCg=="/>
+    </item>
   </channel>
 </rss>
