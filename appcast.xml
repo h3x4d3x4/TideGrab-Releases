@@ -79,5 +79,21 @@
 <ul><li><strong>Videos that wouldn&#x27;t open:</strong> many videos failed with &quot;The helper returned more data than expected&quot;. Their sites now list subtitles in about 150 languages, which made a single video&#x27;s details over 10 MB. TideGrab now reads them.</li><li><strong>Report…</strong> keeps the part of a link that names the video (such as `?v=`), so a report no longer arrives as a bare &quot;.../watch&quot;. Private tokens and share keys are still left out.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.6/TideGrab.dmg" length="102006263" type="application/octet-stream" sparkle:edSignature="Ipn0hHwRhiMbxSZ9KyCgIfRmLqhkLFjs7RURgrQWdoRvrZz04TilPsD9V6vFbAVzPRh605gY7WVjwEH3XYIrAA=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.7</title>
+      <pubDate>Wed, 28 Oct 2026 00:50:06 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Select several at once</h3>
+<ul><li><strong>⌘-click</strong> adds or removes an item, <strong>Shift-click</strong> selects a range, and <strong>⌘A</strong> (or Edit › Select All) selects everything shown. <strong>Esc</strong> lets go.</li><li>With several selected, a bar offers <strong>Remove from List</strong>, <strong>Show in Finder</strong> and <strong>Save Audio As</strong> for all of them. Right-click a selected item for the same.</li></ul>
+<h3>Sound</h3>
+<ul><li><strong>Edit Sound…</strong> (⌘E, or the waveform button on a tile) for saved music and recordings: loudness, fades, skip silence and the Advanced options, on the file&#x27;s own format. Save Audio As no longer lists the type a file already is.</li><li><strong>A video saved as audio</strong> gets the same choices as a music link: M4A, MP3, FLAC or WAV (each says whether it&#x27;s a copy or a re-encode), tags, and the video&#x27;s thumbnail as cover art.</li><li><strong>Videos</strong> get Even out the loudness and fades in Convert; only the sound is re-encoded.</li></ul>
+<h3>List view</h3>
+<ul><li>The list fills the window, however short it is.</li><li><strong>Gallery | List</strong> is now in the top right of the window, in both views, with the row size next to it in List.</li><li>Larger row sizes show bigger posters.</li></ul>
+<h3>Fixes</h3>
+<ul><li><strong>Mixcloud</strong> and similar sites: downloads no longer fail at the end when the site&#x27;s best stream can&#x27;t hold cover art.</li><li><strong>AV1 videos</strong> (YouTube in 4K, on Macs before M3): Trim and Convert now show frames instead of loading forever. TideGrab&#x27;s ffmpeg now includes dav1d.</li><li>Drop a link on the <strong>menu bar icon</strong> to download it.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.7/TideGrab.dmg" length="102830154" type="application/octet-stream" sparkle:edSignature="/TRx6odCxLKXMD4JDFfZ4dBcO11ScCr6acKvpiPY869M83/9TwDJ3jq1TsQNbzcd5eosEdmr3M2sDRc0BE0MCg=="/>
+    </item>
   </channel>
 </rss>
