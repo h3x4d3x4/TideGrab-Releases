@@ -69,5 +69,15 @@
 <ul><li><strong>When a link needs its page:</strong> a link TideGrab can&#x27;t read on its own (it needs a sign-in, or the site turns direct requests away) now gets a clear next step instead of an error. TideGrab says why in one line, then <strong>Open the Page</strong> lets you sign in if the site asks, press play, and add the video.</li><li>In the downloads list, those items say the same calmly, with Open the Page as the main button.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.5/TideGrab.dmg" length="102006077" type="application/octet-stream" sparkle:edSignature="1mTXx9DP/fV4D8uYXQjrmreOTURvLCHF5udOx49mtB+q02UXYD41EbEUyZ8rnoCk5w960G+n/Xz+kHvyzfz2AA=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.6</title>
+      <pubDate>Wed, 28 Oct 2026 00:14:37 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li><strong>Videos that wouldn&#x27;t open:</strong> many videos failed with &quot;The helper returned more data than expected&quot;. Their sites now list subtitles in about 150 languages, which made a single video&#x27;s details over 10 MB. TideGrab now reads them.</li><li><strong>Report…</strong> keeps the part of a link that names the video (such as `?v=`), so a report no longer arrives as a bare &quot;.../watch&quot;. Private tokens and share keys are still left out.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.6/TideGrab.dmg" length="102006263" type="application/octet-stream" sparkle:edSignature="Ipn0hHwRhiMbxSZ9KyCgIfRmLqhkLFjs7RURgrQWdoRvrZz04TilPsD9V6vFbAVzPRh605gY7WVjwEH3XYIrAA=="/>
+    </item>
   </channel>
 </rss>
