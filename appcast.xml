@@ -59,5 +59,15 @@
 <ul><li>The dotted arrow on the start screen and in Welcome is symmetric again: it sits exactly on the dot grid at any window size.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.4/TideGrab.dmg" length="102005649" type="application/octet-stream" sparkle:edSignature="ffb2TRhEbzTlUzuS4RxyEGnRgZVRt3HVVKegX3j6YyRdX05GzNa5HTzfj3KM2LO50TUpadfC95v9dZT0koNsBA=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.5</title>
+      <pubDate>Wed, 28 Oct 2026 00:04:24 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Changes</h3>
+<ul><li><strong>When a link needs its page:</strong> a link TideGrab can&#x27;t read on its own (it needs a sign-in, or the site turns direct requests away) now gets a clear next step instead of an error. TideGrab says why in one line, then <strong>Open the Page</strong> lets you sign in if the site asks, press play, and add the video.</li><li>In the downloads list, those items say the same calmly, with Open the Page as the main button.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.5/TideGrab.dmg" length="102006077" type="application/octet-stream" sparkle:edSignature="1mTXx9DP/fV4D8uYXQjrmreOTURvLCHF5udOx49mtB+q02UXYD41EbEUyZ8rnoCk5w960G+n/Xz+kHvyzfz2AA=="/>
+    </item>
   </channel>
 </rss>
