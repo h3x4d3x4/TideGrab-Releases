@@ -137,5 +137,15 @@
 <ul><li><strong>Every quality a site&#x27;s player offers.</strong> Some sites list their video in several qualities (up to 4K) in their own player, while the page itself points to just one. TideGrab now finds them all and shows each with its size, so Best really is the best, and 1080p and 720p pick the right file.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.11/TideGrab.dmg" length="174548001" type="application/octet-stream" sparkle:edSignature="XuKdC0YyvX0ipbsgtlNgTKbNnVy8wP/2tApBpULqtGbbQM/Rn2L7XRoSjI5FKn3+T34y4JZAi+J2Hf4pR0gtAQ=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.12</title>
+      <pubDate>Wed, 11 Nov 2026 14:50:16 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.9.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3>
+<ul><li><strong>Pick your subtitles.</strong> When a video has subtitles, the card lists every language, so you can tick the ones you want. The languages set in Settings are ticked for you.</li><li><strong>Subtitles only.</strong> Already have the video? Tick &quot;Only the subtitles, without the video&quot; to save just the subtitle files, named after the video so players load them.</li><li><strong>Subtitles from more video sites.</strong> Some sites keep their subtitles in their own player, out of reach until now. TideGrab finds them and saves them next to the video.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.12/TideGrab.dmg" length="174623313" type="application/octet-stream" sparkle:edSignature="pEszBj4nXabTMlhnd3tWzkh6CasQGxpMHzcTKKvHGAe76getcKHhnlq7uEFPRVgFHrhKwKcTzylVYHEG9HzpBw=="/>
+    </item>
   </channel>
 </rss>
