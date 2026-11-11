@@ -117,5 +117,15 @@
 <ul><li>Sparkle, the updater, moved to 2.9.6, which carries the project&#x27;s latest security fixes.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.9/TideGrab.dmg" length="174392525" type="application/octet-stream" sparkle:edSignature="OM61yIRgAjQGTgqbtcuw2CASQizGYis+liqRWk6idBMakK0jx64j397kUzQ0VoqmVuPAzHtntKOaapkYv0w4Bg=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.10</title>
+      <pubDate>Wed, 11 Nov 2026 12:33:09 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.9.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li><strong>Better support for more video sites.</strong> Some sites send a video in pieces, and TideGrab used to save only the first piece: a few seconds of the video, marked as finished. It now saves the whole video, with its title, sound-only and chapter options working as usual.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.10/TideGrab.dmg" length="174463468" type="application/octet-stream" sparkle:edSignature="uJykq15mnPzCDG6i0l19oWOc+8EPlW5dhQFYzQQSw7VMc4DNmWm7drTEDmFKKXYGwsVgaMIz792j7JSvkKM4Bg=="/>
+    </item>
   </channel>
 </rss>
