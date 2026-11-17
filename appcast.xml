@@ -147,5 +147,15 @@
 <ul><li><strong>Pick your subtitles.</strong> When a video has subtitles, the card lists every language, so you can tick the ones you want. The languages set in Settings are ticked for you.</li><li><strong>Subtitles only.</strong> Already have the video? Tick &quot;Only the subtitles, without the video&quot; to save just the subtitle files, named after the video so players load them.</li><li><strong>Subtitles from more video sites.</strong> Some sites keep their subtitles in their own player, out of reach until now. TideGrab finds them and saves them next to the video.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.12/TideGrab.dmg" length="174623313" type="application/octet-stream" sparkle:edSignature="pEszBj4nXabTMlhnd3tWzkh6CasQGxpMHzcTKKvHGAe76getcKHhnlq7uEFPRVgFHrhKwKcTzylVYHEG9HzpBw=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.13</title>
+      <pubDate>Tue, 17 Nov 2026 23:58:34 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.9.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3>
+<ul><li><strong>Better support for more video sites.</strong> Recorded broadcasts and event streams on more sites are now found from their page and downloaded in full from the beginning, with their title, qualities and subtitles intact.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.13/TideGrab.dmg" length="174719729" type="application/octet-stream" sparkle:edSignature="c2RtMvUxFzXPWQHcVnv+6sblDue0MY8/VDqeJJNT9ieS+fQKhpAE0DGDUgs6x2F2Rl6HIvkfE5KYlwkjh8YpCQ=="/>
+    </item>
   </channel>
 </rss>
