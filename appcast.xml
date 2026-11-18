@@ -157,5 +157,17 @@
 <ul><li><strong>Better support for more video sites.</strong> Recorded broadcasts and event streams on more sites are now found from their page and downloaded in full from the beginning, with their title, qualities and subtitles intact.</li></ul>]]></description>
       <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.13/TideGrab.dmg" length="174719729" type="application/octet-stream" sparkle:edSignature="c2RtMvUxFzXPWQHcVnv+6sblDue0MY8/VDqeJJNT9ieS+fQKhpAE0DGDUgs6x2F2Rl6HIvkfE5KYlwkjh8YpCQ=="/>
     </item>
+    <item>
+      <title>TideGrab 0.9.14</title>
+      <pubDate>Wed, 18 Nov 2026 08:37:44 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.9.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Improvements</h3>
+<ul><li><strong>Simpler browser extension setup.</strong> Setting up the browser extension now happens in one step: TideGrab connects your browser automatically, opens a step-by-step guide in your browser alongside a clean <strong>TideGrab Extension</strong> folder in Finder, and confirms in the app as soon as the extension is added.</li><li><strong>Clearer guided capture.</strong> &quot;Open Page in TideGrab&quot; is now <strong>Play &amp; Grab Video</strong> (or <strong>Sign In &amp; Grab Video</strong> when a page needs an account), so it&#x27;s clear how it works.</li></ul>
+<h3>Fixes</h3>
+<ul><li><strong>Redirected event links.</strong> Email-invitation and tracking links that redirect to a recorded event broadcast now open directly when pasted, without needing Play &amp; Grab Video.</li></ul>]]></description>
+      <enclosure url="https://github.com/h3x4d3x4/TideGrab-Releases/releases/download/v0.9.14/TideGrab.dmg" length="174808960" type="application/octet-stream" sparkle:edSignature="UZynerJ4BFpFsYQ6vId4d+4slCe4Rf37uXirX+2dCMEL+fH58yupVtlUrRqCRd6WIfJJPYUn+1AZeWrmYja8DA=="/>
+    </item>
   </channel>
 </rss>
